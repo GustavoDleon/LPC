@@ -1,0 +1,26 @@
+
+curl --request POST \
+	--url https://google-translate1.p.rapidapi.com/language/translate/v2 \
+	--header 'accept-encoding: application/gzip' \
+	--header 'content-type: application/x-www-form-urlencoded' \
+	--header 'x-rapidapi-host: google-translate1.p.rapidapi.com' \
+	--header 'x-rapidapi-key: 61a412b329msh5a5394051de3bd2p1a0e2bjsn843226c6a00e' \
+	--data 'q=Hello, world!' \
+	--data -text \
+	--data target=es \
+	--data source=en
+
+curl --request GET \
+	--url 'https://shazam.p.rapidapi.com/auto-complete?term=kiss%20the&locale=en-US' \
+	--header 'x-rapidapi-host: shazam.p.rapidapi.com' \
+	--header 'x-rapidapi-key: 61a412b329msh5a5394051de3bd2p1a0e2bjsn843226c6a00e'
+
+curl --request GET \
+	--url 'https://alpha-vantage.p.rapidapi.com/query?keywords=microsoft&function=SYMBOL_SEARCH&datatype=json' \
+	--header 'x-rapidapi-host: alpha-vantage.p.rapidapi.com' \
+	--header 'x-rapidapi-key: 61a412b329msh5a5394051de3bd2p1a0e2bjsn843226c6a00e'
+
+  curl --request GET \
+	--url 'https://alpha-vantage.p.rapidapi.com/query?interval=5min&function=TIME_SERIES_INTRADAY&symbol=MSFT&datatype=json&output_size=compact' \
+	--header 'x-rapidapi-host: alpha-vantage.p.rapidapi.com' \
+	--header 'x-rapidapi-key: 61a412b329msh5a5394051de3bd2p1a0e2bjsn843226c6a00e'
