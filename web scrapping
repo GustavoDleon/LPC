@@ -1,0 +1,9 @@
+from bs4 import BeautifulSoup as bs
+import requests
+
+page = requests.get("https://es.wikipedia.org/wiki/Anexo:Historial_de_precios_de_bitcoin")
+soup = bs(page.content, "html.parser")
+for div in soup.find_all(class_="mw-parser-output"):
+    for table in div.find_all(class_="wikitable sortable"):
+        for tr in table.find_all("td"):
+            print(tr.text)
