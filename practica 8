@@ -1,0 +1,32 @@
+import smtplib 
+from email.message import EmailMessage 
+
+email_subject = "Email test Python" 
+sender_email_address = "gustavo_email@gmail.com" 
+receiver_email_address = "tavo_email@address.com" 
+email_smtp = "smtp.gmail.com" 
+email_password = "email_password" 
+
+message = EmailMessage() 
+
+message['Subject'] = email_subject 
+message['From'] = sender_email_address 
+message['To'] = receiver_email_address 
+
+# cuerpo del mensaje 
+message.set_content("Hola desde la uanl!") 
+
+# puerto smtp
+server = smtplib.SMTP(email_smtp, '587') 
+server.ehlo() 
+server.starttls() 
+
+# logear cuenta
+server.login(sender_email_address, email_password) 
+
+# mandar email
+server.send_message(message)  
+
+# finalizar coneccion con el servidor de smtp
+
+server.quit()
