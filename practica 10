@@ -1,0 +1,221 @@
+C:\Users\Gustavo>ipconfig /displaydns
+
+Configuración IP de Windows
+
+    safebrowsing.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : safebrowsing.googleapis.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 104
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:800::200a
+
+
+    safebrowsing.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : safebrowsing.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 125
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.10
+
+
+    tr.blismedia.com
+    ----------------------------------------
+    Nombre de registro  . : tr.blismedia.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 54272
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 34.96.105.8
+
+
+    console.python.org
+    ----------------------------------------
+    Nombre de registro  . : console.python.org
+    Tipo de registro  . . : 5
+    Período de vida . . . : 772
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : star.map.nyc1.psf.io
+
+
+    Nombre de registro  . : star.map.nyc1.psf.io
+    Tipo de registro  . . : 5
+    Período de vida . . . : 772
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : map-lb.nyc1.psf.io
+
+
+    Nombre de registro  . : map-lb.nyc1.psf.io
+    Tipo de registro  . . : 1
+    Período de vida . . . : 772
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 138.197.63.241
+    
+     freewheel.adhaven.com
+    ----------------------------------------
+    Nombre de registro  . : freewheel.adhaven.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 54225
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : rtb-freewheel.east.adhaven.com
+
+
+    Nombre de registro  . : rtb-freewheel.east.adhaven.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 54225
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 35.244.210.213
+
+
+    crl3.digicert.com
+    ----------------------------------------
+    Nombre de registro  . : crl3.digicert.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 1837
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wac.phicdn.net
+
+
+    Nombre de registro  . : cs9.wac.phicdn.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1837
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 72.21.91.29
+
+
+    array513.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : array513.prod.do.dsp.mp.microsoft.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2211
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.184.214.53
+
+
+    d5p.de17a.com
+    ----------------------------------------
+    Nombre de registro  . : d5p.de17a.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 54224
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 213.155.156.166
+
+
+    Nombre de registro  . : d5p.de17a.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 54224
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 213.155.156.165
+
+
+    Nombre de registro  . : d5p.de17a.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 54224
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 213.155.156.164
+
+
+    Nombre de registro  . : d5p.de17a.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 54224
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 213.155.156.184
+
+
+    Nombre de registro  . : d5p.de17a.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 54224
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 213.155.156.168
+
+
+    Nombre de registro  . : d5p.de17a.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 54224
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 213.155.156.181
+
+
+    Nombre de registro  . : d5p.de17a.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 54224
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 213.155.156.180
+
+
+    Nombre de registro  . : d5p.de17a.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 54224
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 213.155.156.167
+
+
+    Nombre de registro  . : d5p.de17a.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 54224
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 213.155.156.169
+
+
+    Nombre de registro  . : d5p.de17a.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 54224
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 213.155.156.183
+
+
+    Nombre de registro  . : d5p.de17a.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 54224
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 213.155.156.182
+
+
+    Nombre de registro  . : d5p.de17a.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 54224
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 213.155.156.185
+
+
+    clientservices.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : clientservices.googleapis.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 82
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:819::2003
+
+
+    clientservices.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : clientservices.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 95
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.131
