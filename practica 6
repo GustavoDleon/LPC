@@ -1,0 +1,7 @@
+ import nmap
+        nm = nmap.PortScanner()
+        return nm.scan(hosts=hosts, ports=ports, arguments=args, sudo=sudo).get('scan')
+
+$ipLocal = Get - NetIPAddress - AddressFamily IPV4
+$nmapPriv = nmap 192.168.1.71
+$nmapPublica = nmap 189.153.237.196
